@@ -1,6 +1,6 @@
 ## 변형준/HyungJun Byun
 
-Education
+<Education>
 
 서울과학고등학교 32기
 
