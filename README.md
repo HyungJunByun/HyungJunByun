@@ -1,7 +1,9 @@
 ## 변형준/HyungJun Byun
 
 Undergrad at SNU (SEES & ECE)
+
 Alumnus of Seoul Science High School (SSHS)
+
 Studying Physical AI & Computing Systems
 
 
